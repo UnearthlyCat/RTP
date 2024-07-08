@@ -1,0 +1,6 @@
+name: "RTP"
+version: "1.0.0"
+main: "L1monchick\RandomTeleport\RandomTeleport"
+api: "5.0.0"
+author: "L1monchick"
+load: "STARTUP"
